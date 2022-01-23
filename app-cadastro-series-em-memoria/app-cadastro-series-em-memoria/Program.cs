@@ -7,6 +7,7 @@ namespace app_cadastro_series_em_memoria
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            enum 
         }
     }
 }
